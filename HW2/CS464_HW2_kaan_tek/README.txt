@@ -1,0 +1,3 @@
+Since this projected is implemented on Google Colab, there is no additional default value or terminal command that need to be entered. One can simply run this .ipynb file on their Jupyter Notebook or Google Colab. 
+
+One catch is, in order for the implementation to successfully locate the "afhq_cat" folder, the user MUST modify the PATH at the very top of the code, according to where the "afhq_cat" folder is located on their machine
